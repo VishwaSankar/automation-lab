@@ -1,0 +1,24 @@
+================================
+SYSTEM REPORT
+================================
+Date: Wednesday 11 November 2026 11:47:06 AM IST
+User: pglab
+Hostname: student
+System: Linux student 5.19.0-32-generic #33~22.04.1-Ubuntu SMP PREEMPT_DYNAMIC Mon Jan 30 17:03:34 UTC 2 x86_64 x86_64 x86_64 GNU/Linux
+Disk Usage:
+Filesystem      Size  Used Avail Use% Mounted on
+tmpfs           1.6G  2.9M  1.6G   1% /run
+/dev/nvme0n1p6   39G   16G   21G  43% /
+tmpfs           7.7G     0  7.7G   0% /dev/shm
+tmpfs           5.0M  4.0K  5.0M   1% /run/lock
+/dev/nvme0n1p1   96M   76M   21M  80% /boot/efi
+tmpfs           1.6G  120K  1.6G   1% /run/user/1000
+/dev/nvme0n1p5  157G   18G  139G  12% /media/pglab/New Volume
+Memory Usage:
+               total        used        free      shared  buff/cache   available
+Mem:            15Gi       2.9Gi       8.5Gi       1.0Gi       3.9Gi        11Gi
+Swap:          2.0Gi          0B       2.0Gi
+System Uptime:
+ 11:47:06 up  2:23,  1 user,  load average: 0.41, 0.43, 0.37
+Report completed successfully
+================================
